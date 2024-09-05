@@ -1,0 +1,88 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+}
+
+nav {
+    margin-top: 1rem;
+}
+
+input[type="text"] {
+    width: 80%;
+    padding: 0.5rem;
+    font-size: 1rem;
+}
+
+main {
+    margin: 2rem auto;
+    max-width: 1200px;
+    padding: 1rem;
+}
+
+#items-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1rem;
+}
+
+.item {
+    background-color: white;
+    border-radius: 5px;
+    padding: 1rem;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.item img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #4CAF50;
+    color: white;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+.logo {
+    width: 50px; /* Ajuste conforme o tamanho desejado */
+    height: auto; /* Mantém a proporção da imagem */
+    margin-right: 10px; /* Espaçamento entre a logomarca e o nome Super Ofertas */
+}
+
+.header-content {
+    display: flex;
+    align-items: center; /* Alinha a logomarca e o texto verticalmente */
+    justify-content: space-between;
+}
+
+.whatsapp-link {
+    text-decoration: none;
+    color: white;
+    background-color: #25D366;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+}
+
+.whatsapp-link:hover {
+    background-color: #1ebe52;
+}
