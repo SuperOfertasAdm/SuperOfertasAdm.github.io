@@ -21,26 +21,23 @@ header {
 .header-content {
     display: flex;
     align-items: center;
-    justify-content: center;
-    position: relative;
-    width: 100%;
+    justify-content: space-between; /* Garante espaço entre os elementos */
+    flex-wrap: wrap; /* Permite que os itens quebrem linha em telas menores */
+    gap: 1rem; /* Espaçamento entre os elementos */
 }
 
 .logo {
-    width: 80px; /* Ajuste o tamanho para melhor aparência em dispositivos móveis */
-    height: 80px; /* Ajuste o tamanho para melhor aparência em dispositivos móveis */
+    width: 80px; /* Ajuste o tamanho conforme necessário */
+    height: 80px; /* Ajuste o tamanho conforme necessário */
     border-radius: 50%;
     object-fit: cover;
-    position: absolute;
-    left: 10px; /* Ajuste para maior espaço em dispositivos móveis */
-    top: 50%;
-    transform: translateY(-50%);
 }
 
 h1 {
     margin: 0;
     text-align: center;
-    flex-grow: 1;
+    flex-grow: 1; /* Permite que o título ocupe o espaço restante */
+    font-size: 1.5rem;
 }
 
 .whatsapp-link {
@@ -49,10 +46,9 @@ h1 {
     background-color: #25D366;
     padding: 0.5rem 1rem;
     border-radius: 5px;
-    position: absolute;
-    right: 10px; /* Ajuste para maior espaço em dispositivos móveis */
-    top: 50%;
-    transform: translateY(-50%);
+    display: flex;
+    align-items: center; /* Alinha verticalmente o ícone com o texto */
+    gap: 0.5rem; /* Espaçamento entre o ícone e o texto */
 }
 
 .whatsapp-link:hover {
@@ -62,8 +58,6 @@ h1 {
 .whatsapp-logo {
     width: 20px;
     height: auto;
-    margin-right: 8px;
-    vertical-align: middle;
 }
 
 .search-container {
@@ -73,7 +67,7 @@ h1 {
 
 input[type="text"] {
     width: 80%;
-    max-width: 400px; /* Ajuste para melhor aparência em dispositivos móveis */
+    max-width: 400px;
     padding: 0.5rem;
     font-size: 1rem;
     border: 1px solid #ccc;
@@ -124,26 +118,33 @@ footer {
     }
 
     .logo {
-        position: static; /* Remove o posicionamento absoluto para dispositivos móveis */
         width: 60px;
         height: 60px;
         margin-bottom: 1rem;
     }
 
+    h1 {
+        font-size: 1.25rem;
+        margin-bottom: 1rem;
+    }
+
     .whatsapp-link {
-        position: static; /* Remove o posicionamento absoluto para dispositivos móveis */
         margin-top: 1rem;
+        padding: 0.5rem;
+        font-size: 0.9rem;
     }
 
     input[type="text"] {
         width: 90%;
-        max-width: none; /* Remove a largura máxima para dispositivos móveis */
+        max-width: none;
+        padding: 0.5rem;
+        font-size: 0.9rem;
     }
 }
 
 @media (max-width: 480px) {
     .header-content {
-        padding: 0.5rem;
+        gap: 0.5rem; /* Reduz o espaço entre os elementos */
     }
 
     .logo {
@@ -151,12 +152,18 @@ footer {
         height: 50px;
     }
 
+    h1 {
+        font-size: 1rem;
+        margin-bottom: 0.5rem;
+    }
+
     .whatsapp-link {
         padding: 0.5rem;
+        font-size: 0.8rem;
     }
 
     input[type="text"] {
-        padding: 0.3rem;
-        font-size: 0.9rem;
+        padding: 0.4rem;
+        font-size: 0.8rem;
     }
 }
