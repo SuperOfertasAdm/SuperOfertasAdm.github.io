@@ -86,3 +86,28 @@ footer {
 .whatsapp-link:hover {
     background-color: #1ebe52;
 }
+
+.whatsapp-logo {
+    width: 20px; /* Ajuste conforme o tamanho desejado */
+    height: auto;
+    margin-right: 8px; /* Espaçamento entre o ícone e o texto */
+    vertical-align: middle; /* Alinha o ícone com o texto */
+}
+
+.header-content {
+    display: flex;
+    align-items: center; /* Alinha os elementos verticalmente */
+    justify-content: center; /* Centraliza todos os elementos horizontalmente */
+    position: relative; /* Permite o posicionamento absoluto do link do WhatsApp */
+}
+
+h1 {
+    text-align: center;
+    margin: 0;
+    flex-grow: 1; /* Faz o título ocupar o espaço central */
+}
+
+.whatsapp-link {
+    position: absolute;
+    right: 10px; /* Posiciona o link do WhatsApp no canto direito */
+}
