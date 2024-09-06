@@ -27,14 +27,14 @@ header {
 }
 
 .logo {
-    width: 100px; /* Ajuste conforme o tamanho desejado */
-    height: 100px; /* Ajuste para tornar a imagem circular */
-    border-radius: 50%; /* Torna a imagem circular */
-    object-fit: cover; /* Garante que a imagem preencha o círculo sem distorção */
+    width: 80px; /* Ajuste o tamanho para melhor aparência em dispositivos móveis */
+    height: 80px; /* Ajuste o tamanho para melhor aparência em dispositivos móveis */
+    border-radius: 50%;
+    object-fit: cover;
     position: absolute;
-    left: 20px; /* Ajusta o espaço do lado esquerdo */
-    top: 105%; /* Aumenta a porcentagem para descer a imagem um pouco mais */
-    transform: translateY(-50%); /* Centraliza verticalmente em relação ao header */
+    left: 10px; /* Ajuste para maior espaço em dispositivos móveis */
+    top: 50%;
+    transform: translateY(-50%);
 }
 
 h1 {
@@ -50,7 +50,7 @@ h1 {
     padding: 0.5rem 1rem;
     border-radius: 5px;
     position: absolute;
-    right: 20px;
+    right: 10px; /* Ajuste para maior espaço em dispositivos móveis */
     top: 50%;
     transform: translateY(-50%);
 }
@@ -73,7 +73,7 @@ h1 {
 
 input[type="text"] {
     width: 80%;
-    max-width: 600px;
+    max-width: 400px; /* Ajuste para melhor aparência em dispositivos móveis */
     padding: 0.5rem;
     font-size: 1rem;
     border: 1px solid #ccc;
@@ -114,4 +114,49 @@ footer {
     position: fixed;
     width: 100%;
     bottom: 0;
+}
+
+/* Media Queries para dispositivos móveis */
+@media (max-width: 768px) {
+    .header-content {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .logo {
+        position: static; /* Remove o posicionamento absoluto para dispositivos móveis */
+        width: 60px;
+        height: 60px;
+        margin-bottom: 1rem;
+    }
+
+    .whatsapp-link {
+        position: static; /* Remove o posicionamento absoluto para dispositivos móveis */
+        margin-top: 1rem;
+    }
+
+    input[type="text"] {
+        width: 90%;
+        max-width: none; /* Remove a largura máxima para dispositivos móveis */
+    }
+}
+
+@media (max-width: 480px) {
+    .header-content {
+        padding: 0.5rem;
+    }
+
+    .logo {
+        width: 50px;
+        height: 50px;
+    }
+
+    .whatsapp-link {
+        padding: 0.5rem;
+    }
+
+    input[type="text"] {
+        padding: 0.3rem;
+        font-size: 0.9rem;
+    }
 }
