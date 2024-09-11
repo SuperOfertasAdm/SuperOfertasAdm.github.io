@@ -1,145 +1,151 @@
 [
     {
         "name": "Kit Garrafa Térmica Vacuum Bottle Inox 500ml + 3 Xícaras",
-        "price": 26.97,
+        "price": "R$26,97",
         "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lnodtakj4r0s75",
         "url": "https://s.shopee.com.br/AKHPu5KVGy"
     },
     {
+        "name": "Cacharel, Amor Amor, Perfume Feminino, Eau de Toilette, 30ml",
+        "price": "R$136,00",
+        "image": "https://m.media-amazon.com/images/I/610BppZ9goL._AC_SL1200_.jpg",
+        "url": "https://amzn.to/4dW9LZL"
+    },
+    {
         "name": "Caixa de Som Bluetooth i2GO: Potência de 10W, Som Intenso e Resistência à Água",
-        "price": 109.9,
+        "price": "R$109,90",
         "image": "https://m.media-amazon.com/images/I/61YCH5zszOL._AC_SL1000_.jpg",
         "url": "https://amzn.to/4gbV5HL"
     },
     {
         "name": "Tablet VAIO TL10 128GB 8GB RAM, 4G, Teclado Magnético, Tela 10.4” 2K PRETO",
-        "price": 1499.0,
+        "price": "R$1499,00",
         "image": "https://down-br.img.susercontent.com/file/sg-11134201-7rbn6-lq58zztdobp6c7",
         "url": "https://s.shopee.com.br/8Uq36QFacW"
     },
     {
         "name": "Morte Súbita - Máscara Super Hidratante, 450g - Lola Cosmetics, 25834",
-        "price": 33.24,
+        "price": "R$33,24",
         "image": "https://m.media-amazon.com/images/I/616GAmsvgCL._AC_SL1000_.jpg",
         "url": "https://amzn.to/3XkqM8R"
     },
     {
         "name": "Transforme Suas Fotos com o Light Box Studio Portátil - O Estúdio Perfeito para Pequenos Itens. Com 12 Cores Backdrop",
-        "price": 139.09,
+        "price": "R$139,09",
         "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-ln44tchnaricb4",
         "url": "https://s.shopee.com.br/10k0QssgfE"
     },
     {
         "name": "Chroma Key Portátil: Fundo Verde/Azul Perfeito para Streaming e Vídeos de Alta Qualidade",
-        "price": 169.75,
+        "price": "R$169,75",
         "image": "https://down-br.img.susercontent.com/file/br-11134207-7qukw-lhhen9g45ilz83",
         "url": "https://s.shopee.com.br/AKHfYShqp5"
     },
     {
         "name": "Baseus GaN5 Pro 100W USB Tipo C PD Carregador Rápido Para Smartphone MacBook",
-        "price": 237.9,
+        "price": "R$237,90",
         "image": "https://down-br.img.susercontent.com/file/cn-11134207-7qukw-lhixwgnvxe3i15",
         "url": "https://s.shopee.com.br/3L7clcH7T7"
     },
     {
         "name": "Campainha Sem Fio Com Bateria CIB 101 Preto Intelbras",
-        "price": 64.97,
+        "price": "R$64,97",
         "image": "https://m.media-amazon.com/images/I/41XNjqMeStL._AC_SL1000_.jpg",
         "url": "https://amzn.to/3MrnoEo"
     },
     {
         "name": "Echo Buds (2ª Geração): Fones de ouvido sem fio com cancelamento de ruído ativo e Alexa",
-        "price": 809.1,
+        "price": "R$809,10",
         "image": "https://m.media-amazon.com/images/I/61BRphnvoSL._AC_SL1000_.jpg",
         "url": "https://amzn.to/47ly5Sn"
     },
     {
         "name": "Copo Térmico Inox Portátil 1200ml/1.2L Garrafa Térmica Inoxidável com Tampa e Canudo",
-        "price": 59.98,
+        "price": "R$59,98",
         "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lyag4mg67w85c9",
         "url": "https://s.shopee.com.br/20cTLHX4U6"
     },
     {
         "name": "Smartphone Xiaomi Redmi Note 13 8+256G",
-        "price": 1070.0,
+        "price": "R$1070,00",
         "image": "https://m.media-amazon.com/images/I/51jPglxBSfL._AC_SL1200_.jpg",
         "url": "https://amzn.to/47j8qd3"
     },
     {
         "name": "Echo Dot 5ª geração | O Echo Dot com o melhor som já lançado",
-        "price": 386.1,
+        "price": "R$386,10",
         "image": "https://m.media-amazon.com/images/I/71YVBa7zc5L._AC_SL1000_.jpg",
         "url": "https://amzn.to/3AUIOHl"
     },
     {
         "name": "Mini Umidificador Difusor Aromatizador Egg Portátil Usb Led",
-        "price": 17.99,
+        "price": "R$17,99",
         "image": "https://down-br.img.susercontent.com/file/sg-11134201-22090-jcpxola9ryhv25",
         "url": "https://s.shopee.com.br/8zmDfyXU2r"
     },
     {
         "name": "Massageador",
-        "price": 34.98,
+        "price": "R$34,98",
         "image": "https://down-br.img.susercontent.com/file/sg-11134201-7rbmy-ln3ij6o8hir9d3",
         "url": "https://s.shopee.com.br/9pLKgRB917"
     },
     {
         "name": "La Roche Posay, Mela B3, Sérum Antimanchas Com Melasyl Ativo Patenteado + 10% Niacinamida, 30ml",
-        "price": 260.9,
+        "price": "R$260,90",
         "image": "https://m.media-amazon.com/images/I/51V3XsYK69L._AC_SL1000_.jpg",
         "url": "https://amzn.to/3zd82Af"
     },
     {
         "name": "Notebook Lenovo Ideapad 1i i5-1235U 8GB 512GB SSD 15.6\" W11",
-        "price": 2799.91,
+        "price": "R$2799,91",
         "image": "https://m.media-amazon.com/images/I/511EoYGarNL._AC_SL1000_.jpg",
         "url": "https://amzn.to/3MBxIcX"
     },
     {
         "name": "Water Out Ervas/Nutrientes Now Foods 100 Caps Importado",
-        "price": 72.78,
+        "price": "R$72,78",
         "image": "https://m.media-amazon.com/images/I/518QJVvoBXL._AC_SL1000_.jpg",
         "url": "https://amzn.to/3XwFhYF"
     },
     {
         "name": "Adega Electrolux 8 garrafas Uma Porta Acabamento em Alumínio (ACB08)",
-        "price": 699.0,
+        "price": "R$699,00",
         "image": "https://m.media-amazon.com/images/I/61+z+E4vS+L._AC_SL1200_.jpg",
         "url": "https://amzn.to/4cUMTbU"
     },
     {
         "name": "Rugol Óleo Corporal Rosa Mosqueta 10Ml Epilê",
-        "price": 25.19,
+        "price": "R$25,19",
         "image": "https://m.media-amazon.com/images/I/61DjKc1tmCL._AC_SL1500_.jpg",
         "url": "https://amzn.to/47eo61j"
     },
     {
         "name": "Projetor 4K HD 150 Polegadas",
-        "price": 309.99,
+        "price": "R$309,99",
         "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lvm98b66j9zyb5",
         "url": "https://s.shopee.com.br/10jwAv8Vxg"
     },
     {
         "name": "Luminária de Mesa de LED 3D Criativa / Luz Noturna Decorativa",
-        "price": 27.99,
+        "price": "R$27,99",
         "image": "https://down-br.img.susercontent.com/file/864a0669b52f69411ece31c98198126f",
         "url": "https://s.shopee.com.br/8KWWudNL40"
     },
     {
         "name": "Apple iPhone 15 (128 GB) — Preto",
-        "price": 4699.0,
+        "price": "R$4699,00",
         "image": "https://m.media-amazon.com/images/I/51ntU3xdK0L._AC_SL1000_.jpg",
         "url": "https://amzn.to/3Xys7u7"
     },
     {
         "name": "Creatina 100% Pura Monohidratada Pote 300g - Black Skull",
-        "price": 64.9,
+        "price": "R$64,90",
         "image": "https://down-br.img.susercontent.com/file/sg-11134201-7rdy0-lypexbb0iaekf6",
         "url": "https://s.shopee.com.br/AUb1UwgD2R"
     },
     {
         "name": "Robô Aspirador Liectroux G7 Base Autolimpante Cor:110V",
-        "price": 3299.0,
+        "price": "R$3299,00",
         "image": "https://m.media-amazon.com/images/I/71AlB6cMxML._AC_SL1500_.jpg",
         "url": "https://amzn.to/4dVbDlC"
     }
