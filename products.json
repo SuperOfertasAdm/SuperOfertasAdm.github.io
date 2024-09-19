@@ -1,7 +1,7 @@
 [
     {
         "name": "Kit Garrafa Térmica Vacuum Bottle Inox 500ml + 3 Xícaras",
-        "price": "R$26,97",
+        "price": "R$ 26,97",
         "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lnodtakj4r0s75",
         "url": "https://s.shopee.com.br/AKHPu5KVGy"
     },
@@ -10,6 +10,36 @@
         "price": "R$ 129,90",
         "image": "https://m.media-amazon.com/images/I/71gAmxu6lbL._AC_SL1500_.jpg",
         "url": "https://amzn.to/3MO2QG7"
+    },
+    {
+        "name": "Mouse LED Ergonômico 1600dpi 6 botões - PC e Laptop - Verto Mouse 22885 - Trust",
+        "price": "R$ 109,99",
+        "image": "https://m.media-amazon.com/images/I/51x7bi-TZdL._AC_SL1500_.jpg",
+        "url": "https://amzn.to/3XQWzja"
+    },
+    {
+        "name": "Mouse Pad Multilaser Com Apoio Gel Pequeno Preto - AC02",
+        "price": "R$ 29,90",
+        "image": "https://m.media-amazon.com/images/I/51SPXqkZC4L._AC_SL1000_.jpg",
+        "url": "https://amzn.to/4ddcjBL"
+    },
+    {
+        "name": "Fone de Ouvido JBL Tune 110 Intra-Auricular Preto - ‎JBLT110BLK",
+        "price": "R$ 59,46",
+        "image": "https://m.media-amazon.com/images/I/61gAp1E5ODL._AC_SL1500_.jpg",
+        "url": "https://amzn.to/3zq5E9m"
+    },
+    {
+        "name": "Carregador Portátil Baseus Bipow Digital Display Power Bank 10000mAh 15W Preto,modelo PPBD10",
+        "price": "R$ 149,90",
+        "image": "https://m.media-amazon.com/images/I/61JSl+QrpnL._AC_SL1200_.jpg",
+        "url": "https://amzn.to/4ec4aic"
+    },
+    {
+        "name": "Chinelos Parte de Cima, Havaianas, adulto unissex",
+        "price": "R$ 34,99",
+        "image": "https://m.media-amazon.com/images/I/51PNM7DGh0L._AC_SY625_.jpg",
+        "url": "https://amzn.to/3MSGXpi"
     },
     {
         "name": "PlayStation®5 Slim Edição Digital com 2 Jogos",
