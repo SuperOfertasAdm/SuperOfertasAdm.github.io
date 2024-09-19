@@ -19,6 +19,12 @@ function displayItems(filteredItems) {
             <a href="${item.url}" target="_blank">Ver Mais</a>
         `;
 
+        // Evento de clique para a imagem, redirecionando para o mesmo link do "Ver Mais"
+        const imgElement = itemDiv.querySelector('img');
+        imgElement.addEventListener('click', () => {
+            window.open(item.url, '_blank');
+        });
+
         container.appendChild(itemDiv);
     });
 }
