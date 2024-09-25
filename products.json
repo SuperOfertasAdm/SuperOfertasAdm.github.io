@@ -66,22 +66,16 @@
         "url": "https://amzn.to/4ec4aic"
     },
     {
-        "name": NaN,
-        "price": NaN,
-        "image": NaN,
-        "url": NaN
+        "name": "PlayStation®5 Slim Edição Digital com 2 Jogos",
+        "price": "R$ 3533,08",
+        "image": "https://m.media-amazon.com/images/I/51SM5xU-M1L._AC_SL1500_.jpg",
+        "url": "https://amzn.to/4dsKNQZ"
     },
     {
         "name": "Chinelos Parte de Cima, Havaianas, adulto unissex",
         "price": "R$ 34,99",
         "image": "https://m.media-amazon.com/images/I/51PNM7DGh0L._AC_SY625_.jpg",
         "url": "https://amzn.to/3MSGXpi"
-    },
-    {
-        "name": "PlayStation®5 Slim Edição Digital com 2 Jogos",
-        "price": "R$ 3533,08",
-        "image": "https://m.media-amazon.com/images/I/51SM5xU-M1L._AC_SL1500_.jpg",
-        "url": "https://amzn.to/4dsKNQZ"
     },
     {
         "name": "Neatsvor X600: Robô Aspirador Inteligente com Mapeamento, Sucção de 3000Pa e Controle via App",
